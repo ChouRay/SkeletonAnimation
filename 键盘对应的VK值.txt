@@ -1,0 +1,9 @@
+方向键(←)： VK_LEFT (37)
+方向键(↑)： VK_UP (38)
+方向键(→)： VK_RIGHT (39)
+方向键(↓)： VK_DOWN (40)
+Page Up： VK_PRIOR (33)
+PageDown： VK_NEXT (34)
+0x1 鼠标左键
+0x2 鼠标右键
+A 至 Z 键与 A – Z 字母的 ASCII 码相同：
